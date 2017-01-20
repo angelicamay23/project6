@@ -1,0 +1,22 @@
+h1{
+     text-align: center;
+     color:red;
+     }
+     
+h2{
+     text-align: center;
+     text-decoration: underline;
+     }
+     
+p{
+    font-family: tahoma;
+    color: green;
+    }
+    
+ul{
+font-style:italic;}
+
+ol{
+font-size: 1.6em
+font-weight:bold;
+}
